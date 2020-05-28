@@ -40,7 +40,7 @@ We have used,
 First, clone the repository to your local machine:
 
 ```
-git clone https://github.com/fulltostack/deqode_webapp
+git clone https://github.com/dev-appmonsters/deqode-webapp
 
 cd deqode_webapp
 ```
