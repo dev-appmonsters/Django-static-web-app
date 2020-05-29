@@ -13,7 +13,6 @@ We have used,
 # Project Structure:
 
 ```
-├── sshd_config
 ├── webapp
 │   ├── settings.py: settings file for the project.
 │   ├── __init__.py
