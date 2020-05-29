@@ -52,14 +52,14 @@ pip install -r requirements.txt
 
 After successful installation execute the following commands:
 
-    ```bash
+    ```
     $python manage.py migrate
     $python manage.py runserver
     ```
 
 After successful running, create a superuser the following commands:
 
-    ```bash
+    ```
     $python manage.py createsuperuser
     ```
     1. Enter Username
@@ -67,7 +67,7 @@ After successful running, create a superuser the following commands:
     3. Enter Password
 
     Now you can use this credential for login in the webapp.
-    
+
 Visit `127.0.0.1:8000` in your browser to enjoy the awesome app!
 
 Built with ♥ by [`Dev Appmonsters`]
