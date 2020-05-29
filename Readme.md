@@ -1,6 +1,6 @@
-# deqode_webapp
+# Django-static-web-app
 
-This project contains the implementation of Deqode webapp.
+This project contains the implementation of Django static webapp.
 
 # Technology Stack
 We have used,
@@ -14,7 +14,7 @@ We have used,
 
 ```
 ├── sshd_config
-├── deqode_webapp
+├── webapp
 │   ├── settings.py: settings file for the project.
 │   ├── __init__.py
 │   ├── urls.py: url endpoints of linkedin scraper app
@@ -40,9 +40,9 @@ We have used,
 First, clone the repository to your local machine:
 
 ```
-git clone https://github.com/dev-appmonsters/deqode-webapp
+git clone https://github.com/dev-appmonsters/Django-static-web-app
 
-cd deqode_webapp
+cd Django-static-web-app
 ```
 
 Install the requirements:

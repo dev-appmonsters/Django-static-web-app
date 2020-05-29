@@ -1,5 +1,5 @@
 """
-Definition of urls for deqode_webapp.
+Definition of urls for webapp.
 """
 
 from datetime import datetime
